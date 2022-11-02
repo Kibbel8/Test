@@ -2,11 +2,17 @@
 	"Pipelines": {
 		"PipelineName": {
 			"index": 0,
-			"pipes": {
-				"name": "name",
-				"index": 0,
-				"status": "status"
-			}
+			"pipes": [{
+					"name": "name",
+					"index": 0,
+					"status": "status"
+				},
+				{
+					"name": "name1",
+					"index": 1,
+					"status": "status"
+				}
+			]
 		}
 	}
 }
