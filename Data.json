@@ -34,7 +34,7 @@
 			]
 		},
 		"PipelineName3": {
-			"index": 0,
+			"index": 2,
 			"pipes": [{
 					"name": "name",
 					"index": 0,
