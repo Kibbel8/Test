@@ -32,6 +32,25 @@
 					"status": "pending"
 				}
 			]
+		},
+		"PipelineName3": {
+			"index": 0,
+			"pipes": [{
+					"name": "name",
+					"index": 0,
+					"status": "succeeded"
+				},
+				{
+					"name": "name1",
+					"index": 1,
+					"status": "started"
+				},
+				{
+					"name": "name1",
+					"index": 2,
+					"status": "failed"
+				}
+			]
 		}
 	}
 }
