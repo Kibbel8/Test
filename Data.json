@@ -5,17 +5,17 @@
 			"pipes": [{
 					"name": "name",
 					"index": 0,
-					"status": "status"
+					"status": "succeeded"
 				},
 				{
 					"name": "name1",
 					"index": 1,
-					"status": "status"
+					"status": "started"
 				},
 				{
 					"name": "name1",
 					"index": 2,
-					"status": "status"
+					"status": "failed"
 				}
 			]
 		},
@@ -24,12 +24,12 @@
 			"pipes": [{
 					"name": "name",
 					"index": 0,
-					"status": "status"
+					"status": "errored"
 				},
 				{
 					"name": "name1",
 					"index": 1,
-					"status": "status"
+					"status": "pending"
 				}
 			]
 		}
